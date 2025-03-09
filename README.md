@@ -1,5 +1,5 @@
 local HttpService = game:GetService("HttpService")
-local webhookURL = "COLE_AQUI_SUA_URL_DO_WEBHOOK"
+local webhookURL = "https://discord.com/api/webhooks/1327991479125151875/zWq-0Hrti7OfhXmtliZz-biL8Vzkd2qD0TG8rGtB_-Kr198gpZFz88EvN3Og4wbeUIKe"
 
 -- Função para enviar dados ao Discord
 local function logToDiscord(player)
